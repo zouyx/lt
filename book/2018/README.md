@@ -5,6 +5,7 @@
 
 * 从Paxos到Zookeeper
 * 图解TCP/IP
+* 编程珠玑
 
 # 产品类
 
